@@ -1,0 +1,7 @@
+runtime: python311
+# env: flex
+entrypoint: gunicorn -b :$PORT app:app
+
+runtime_config:
+    operating_system: "ubuntu22"
+    runtime_version: "3.12"

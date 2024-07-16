@@ -1,0 +1,11 @@
+pandas
+Flask
+scikit-learn
+pytest
+joblib
+scipy
+gunicorn
+python-dotenv
+mysql.connector
+flask_cors
+openai
